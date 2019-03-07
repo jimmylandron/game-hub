@@ -1,4 +1,4 @@
-# React Starter Kit
+# Game Hub
 This is a Codeigniter Ecommerce Website
 
 
